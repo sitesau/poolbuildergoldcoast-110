@@ -1,0 +1,22 @@
+{
+  "wheel_id": 838,
+  "structure": "umbrella",
+  "slug": "poolbuildergoldcoast-110",
+  "project": "concrete-pool-builder-gold-coast-planning-guide-a0c87308ce75673",
+  "parent_t1_ref": "poolbuildergoldcoast-154",
+  "node_role": "feeder",
+  "money_target": "poolbuildergoldcoast.net.au",
+  "primary_kw": "concrete pool builder gold coast planning guide",
+  "intended_url": "http://concrete-pool-builder-gold-coast-planning-guide-a0c87308ce75673.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "207eb424b83f23e1",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/concrete-pool-builder-gold-coast-faq-4b0e825dc87e79b4477cab50e6/",
+      "anchor": "more on concrete pool builder gold coast faq",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
